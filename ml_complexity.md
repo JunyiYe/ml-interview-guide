@@ -1,7 +1,7 @@
 Here are some machine learning models and their complexities:
 
 ### Decision Trees
-- **Training Complexity**: Decision trees can be trained relatively quickly, especially for small to medium-sized datasets. The complexity is generally <code>O(n \log n)</code>, where <code>n</code> is the number of training samples.
+- **Training Complexity**: Decision trees can be trained relatively quickly, especially for small to medium-sized datasets. The complexity is generally $O(n \log n)$, where <code>n</code> is the number of training samples.
 - **Evaluation Complexity**: The evaluation complexity is <code>O(\log n)</code>, as it involves traversing the tree from the root to a leaf node.
 - **Example**: Decision trees are often used in classification tasks, such as predicting whether a customer will buy a product based on their demographic information.
 
